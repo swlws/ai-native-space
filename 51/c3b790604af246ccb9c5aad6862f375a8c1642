@@ -1,0 +1,14 @@
+doc/示例.md
+  h_9054b55ea37caa 1-100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "51c3b790604af246ccb9c5aad6862f375a8c1642",
+  "prompts": {},
+  "humans": {
+    "h_9054b55ea37caa": {
+      "author": "swlws"
+    }
+  }
+}
